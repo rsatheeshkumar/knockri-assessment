@@ -1,0 +1,5 @@
+export const candidateTypes = {
+  GET_CANDIDATE: 'GET_CANDIDATE',
+  GET_QUESTIONS: 'GET_QUESTIONS',
+  SET_ERROR: 'SET_ERROR',
+}
